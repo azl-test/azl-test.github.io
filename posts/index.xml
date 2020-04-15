@@ -26,8 +26,8 @@
 			<pubDate>Tue, 11 Feb 2020 10:50:52 -0500</pubDate>
 			
 			<guid>/posts/test-post-1/</guid>
-			<description>Test post.</description>
-			<content type="html"><![CDATA[<p>Test post.</p>
+			<description>Test post. Now with a second sentence.</description>
+			<content type="html"><![CDATA[<p>Test post. Now with a second sentence.</p>
 ]]></content>
 		</item>
 		
