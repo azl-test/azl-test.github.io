@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>untagged on Unique Individual</title>
-    <link>/tags/untagged/</link>
+    <link>https://azl-test.github.io/tags/untagged/</link>
     <description>Recent content in untagged on Unique Individual</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
     <lastBuildDate>Tue, 11 Feb 2020 10:51:01 -0500</lastBuildDate>
     
-	<atom:link href="/tags/untagged/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://azl-test.github.io/tags/untagged/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Test Post 2</title>
-      <link>/posts/test-post-2/</link>
+      <link>https://azl-test.github.io/posts/test-post-2/</link>
       <pubDate>Tue, 11 Feb 2020 10:51:01 -0500</pubDate>
       
-      <guid>/posts/test-post-2/</guid>
+      <guid>https://azl-test.github.io/posts/test-post-2/</guid>
       <description>Another ol&amp;rsquo; test post. With a second sentence, for testing!</description>
     </item>
     
     <item>
       <title>Test Post 1</title>
-      <link>/posts/test-post-1/</link>
+      <link>https://azl-test.github.io/posts/test-post-1/</link>
       <pubDate>Tue, 11 Feb 2020 10:50:52 -0500</pubDate>
       
-      <guid>/posts/test-post-1/</guid>
+      <guid>https://azl-test.github.io/posts/test-post-1/</guid>
       <description>Test post. Now with a second sentence.</description>
     </item>
     
